@@ -6,6 +6,8 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
+http://ledir.thund.re:80/play/live.php?mac=00:1A:79:02:13:52&stream=567487&extension=ts
+
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:c5:94:26&stream=567487&extension=ts
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:73:D2:A7&stream=567487&extension=ts
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:C5:51:C4&stream=567487&extension=ts
