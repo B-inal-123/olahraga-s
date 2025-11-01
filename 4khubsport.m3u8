@@ -7,3 +7,4 @@
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
 http://nxtplay.xyz:8080/play/live.php?mac=00:1A:79:C0:C9:D7&stream=394282&extension=ts
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250765&extension=ts&play_token=3h1s1zcAB8
